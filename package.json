@@ -1,0 +1,15 @@
+{
+  "name": "mock_server",
+  "version": "1.0.0",
+  "description": "mockServer llamadas a Dynatrace SaaS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paradigma Digital",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}
